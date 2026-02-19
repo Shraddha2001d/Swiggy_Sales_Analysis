@@ -16,6 +16,7 @@ Food delivery platforms generate massive transactional data daily. However, raw 
 - Blank fields
 - Duplicate records
 - Unstructured format
+  
 The challenge was to:
 - Clean and validate the raw dataset
 - Build an optimized data model (Star Schema)
