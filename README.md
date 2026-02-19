@@ -16,7 +16,7 @@ Food delivery platforms generate massive transactional data daily. However, raw 
 - Blank fields
 - Duplicate records
 - Unstructured format
-- The challenge was to:
+The challenge was to:
 - Clean and validate the raw dataset
 - Build an optimized data model (Star Schema)
 - Develop KPIs for business performance analysis
@@ -85,13 +85,14 @@ Advanced Analysis:
 - Rating Distribution
 
 ## 📈 Key Insights
-- Order trends vary significantly by month and quarter.
-- Certain cities contribute higher revenue compared to others.
-- A small number of restaurants generate a large portion of total orders.
-- Mid-range price categories (100–299 INR) dominate customer spending.
-- Higher-rated cuisines tend to receive more repeat orders.
-- Weekend order volume is generally higher than weekdays.
-
+- Total of 197,401 orders were analyzed to evaluate overall sales performance.
+- Revenue analysis shows strong contribution from top-performing cities, indicating geographical concentration of demand.
+- Monthly and quarterly trends highlight clear seasonality patterns in order volume and revenue.
+- A small group of restaurants and cuisines dominate total order volume, reflecting high customer preference concentration.
+- Mid-price range (₹100–₹299) contributes the highest number of orders, indicating price-sensitive customer behavior.
+- Weekend orders consistently exceed weekday orders, showing peak demand during non-working days.
+- Higher-rated dishes and cuisines maintain stronger order volumes, suggesting rating-driven purchasing decisions.
+  
 ## 🚀 Business Impact
 - Helps management identify high-performing cities and restaurants
 - Supports pricing strategy analysis
